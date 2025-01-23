@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144454847952",
+    "project_id": "lastp-e1a44",
+    "storage_bucket": "lastp-e1a44.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144454847952:android:c75e2bf51fd8eaf8417dd5",
+        "android_client_info": {
+          "package_name": "com.example.lastp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoAL5uXNGPf7Zfi-joe4FY6FuN6Ii3xD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
